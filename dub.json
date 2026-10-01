@@ -1,0 +1,8 @@
+{
+	"name": "hoff",
+	"description": "Hoff Research namespace. Placeholder package, the real thing lands here later.",
+	"homepage": "https://hoffresearch.com",
+	"authors": ["Brenner Cruvinel"],
+	"license": "MIT",
+	"targetType": "library"
+}
